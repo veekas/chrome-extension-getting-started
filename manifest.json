@@ -5,7 +5,7 @@
   "version": "1.0",
 
   // recommended stuff
-  "default_locale": "en",
+  // "default_locale": "en", // error on test: "Default locale was specified, but _locales subtree is missing."
   "description": "This extension allows the user to change the background color of the current page.",
   // "icons": {
   //   ...
